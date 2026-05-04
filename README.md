@@ -3,10 +3,6 @@
 <img width="100%" alt="mado-m live GitHub signal board" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,55:164E63,100:F6D365&text=mado-m&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=live%20GitHub%20signal%20board&descAlignY=62&descSize=16&animation=fadeIn" />
 
 <br />
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mado-m?label=followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F6D365" />
-
-<br />
 <br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">

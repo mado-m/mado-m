@@ -13,12 +13,6 @@
 <br />
 
 <img height="182" alt="Contribution streak" src="https://streak-stats.demolab.com?user=mado-m&hide_border=true&background=0D1117&ring=5EEAD4&fire=F6D365&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&sideNums=F8FAFC&currStreakNum=F8FAFC" />
-<img height="182" alt="GitHub stats summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mado-m&theme=github_dark" />
-
-<br />
-
-<img height="190" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mado-m&theme=github_dark&utcOffset=9" />
-<img height="190" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mado-m&theme=github_dark" />
 
 <br />
 

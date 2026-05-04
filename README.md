@@ -19,7 +19,6 @@
 
 <img height="190" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mado-m&theme=github_dark&utcOffset=9" />
 <img height="190" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mado-m&theme=github_dark" />
-<img height="190" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mado-m&theme=github_dark" />
 
 <br />
 

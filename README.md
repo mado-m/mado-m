@@ -7,7 +7,7 @@
   <br />
   <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mado-m&theme=radical" />
   <br />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mado-m&theme=redical&hide_border=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mado-m&theme=radical&hide_border=true" />
   <br />
   <img alt="Profile footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&color=0:0D1117,32:0F766E,68:FB7185,100:FDE68A" />
 </div>

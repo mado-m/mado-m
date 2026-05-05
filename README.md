@@ -7,6 +7,7 @@
   <br />
   <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mado-m&theme=radical" />
   <br />
+  <!-- "redical" は github-readme-activity-graph 独自の正規テーマ名 (typo ではない)。"radical" は同サービスに存在せず、指定すると default のピンク背景に fallback する。参考: https://github.com/Ashutosh00710/github-readme-activity-graph/pull/236 -->
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mado-m&theme=redical&hide_border=true" />
   <br />
   <img alt="Profile footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&color=0:0D1117,32:0F766E,68:FB7185,100:FDE68A" />

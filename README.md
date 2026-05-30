@@ -4,7 +4,7 @@
 
   <!-- Highlights -->
   <p>
-    <img alt="GitHub achievement trophies" src="https://github-profile-trophy.vercel.app/?username=mado-m&theme=radical&no-frame=true&no-bg=true&column=7&title=Commits,Experience,Issues,Stars,Followers,PullRequest,Repositories" />
+    <img alt="GitHub achievement trophies" src="https://trophy.ryglcloud.net/?username=mado-m&theme=radical&no-frame=true&no-bg=true&column=7&title=Commits,Experience,Issues,Stars,Followers,PullRequest,Repositories" />
   </p>
 
   <!-- Activity -->
